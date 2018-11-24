@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "187582089897",
+    "firebase_url": "https://odins-eye-1a9ec.firebaseio.com",
+    "project_id": "odins-eye-1a9ec",
+    "storage_bucket": "odins-eye-1a9ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187582089897:android:9117588de2489bbe",
+        "android_client_info": {
+          "package_name": "com.noel_inc.odinseye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187582089897-qkepl57beil187jqubj6opf4l1gj37uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy--frHZW1reQSRM-PIcmY-myWq6iJSX8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
