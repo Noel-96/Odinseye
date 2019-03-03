@@ -10,4 +10,6 @@
     <string name="load_msg">Loading. Please wait...</string>
     <string name="select_picture">Select Picture</string>
 
+
+    <string name="some_error">An Error Occurred!</string>
 </resources>
